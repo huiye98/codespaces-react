@@ -18,7 +18,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn React 真的牛逼啊！有点东西
           </a>
         </p>
       </header>
